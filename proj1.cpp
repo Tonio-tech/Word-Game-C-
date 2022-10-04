@@ -4,7 +4,7 @@ Assignent Name: CMSC 202 Project 1 - Guess Word
 Author's Name: Toni Olafunmiloye
 Date: Feburary 11, 2021
 Section: 53
-Email: oolafun1@umbc.edu
+Email: 
 Description: Project 1 is a guessing word program that implements the use of functions.
 */
 
